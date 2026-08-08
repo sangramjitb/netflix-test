@@ -139,7 +139,7 @@ export const ROWS = [
         id: "t3",
         title: "First Impression",
         img: "/thumb/main.png",
-        videoSrc: "/videos/main.mp4",
+        videoSrc: "/videos/v10.mp4",
         tags: ["Awkward", "Adorable"],
         match: "91% Match",
         age: "13+",
