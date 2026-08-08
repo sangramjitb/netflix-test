@@ -88,8 +88,8 @@ export const ROWS = [
       {
         id: "p4",
         title: "The Beginning",
-        img: "/thumb/img4.png",
-        videoSrc: "/videos/v4.mp4",
+        img: "/thumb/img8.png",
+        videoSrc: "/videos/v8.mp4",
         tags: ["Slow Burn", "Rom-Com"],
         match: "92% Match",
         age: "13+",
@@ -99,8 +99,8 @@ export const ROWS = [
       {
         id: "p5",
         title: "Cute Fights",
-        img: "/thumb/img5.png",
-        videoSrc: "/videos/v3.mp4",
+        img: "/thumb/img9.png",
+        videoSrc: "/videos/v9.mp4",
         tags: ["Drama", "Playful"],
         match: "89% Match",
         age: "18+",
