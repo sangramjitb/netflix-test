@@ -41,7 +41,7 @@ export const HERO = {
   ageRating: "13+",
 
   description:
-    "There's something truly wonderful I've been waiting to tell you... that's exactly why I crafted this little universe just for you. Are you ready to discover the full story?",
+    "Some people take months to trust. With some people, it just happens naturally. Ours somehow became one of those bonds",
 };
 
 // ─────────────────────────────────────────────
@@ -54,14 +54,14 @@ export const ROWS = [
     items: [
       {
         id: "p1",
-        title: "Our Memories",
+        title: "The Birthday Episode",
         img: "/thumb/img1.png",
         videoSrc: "/videos/v7.mp4",
-        tags: ["Romantic", "Nostalgic"],
+        tags: ["Birthday • Team • Memories"],
         match: "98% Match",
         age: "13+",
         duration: "10s",
-        desc: "When a beautiful journey of shared smiles and unforgettable milestones unfolds, two hearts create a timeless masterpiece of memories.",
+        desc: "Some people wished you on camera, some needed a little help getting there… but the message was the same — you matter to this team And admittedly, to some people here a little more than they probably should. 😉.",
       },
       {
         id: "p2",
