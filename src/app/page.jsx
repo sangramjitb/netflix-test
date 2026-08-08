@@ -27,10 +27,10 @@ export default function AnniversaryApp() {
   }, [])
 
   useEffect(() => {
-    audioRef.current = new Audio("/music.mp4")
+    audioRef.current = new Audio("/videos/netflix.mp3")
     audioRef.current.loop = true
 
-    const netflixSound = new Audio("/tudum.mp3")
+    const netflixSound = new Audio("/videos/netflix.mp3")
     netflixSound.play().catch(() => {})
 
     const timer = setTimeout(() => {
