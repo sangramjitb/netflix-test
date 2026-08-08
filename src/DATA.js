@@ -126,7 +126,7 @@ export const ROWS = [
       },
       {
         id: "t2",
-        title: "Long Calls",
+        title: "13 Reason Why",
         img: "/thumb/img7.png",
         videoSrc: "/videos/v1.mp4",
         tags: ["Calm", "Intimate"],
