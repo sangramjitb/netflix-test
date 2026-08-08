@@ -177,5 +177,5 @@ export const ROWS = [
 // ─────────────────────────────────────────────
 export const AUDIO = {
   introSound: "/videos/netflix.mp3",
-  bgMusic: "/music.mp4",
+  bgMusic: "/videos/netflix.mp3",
 };
