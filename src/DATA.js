@@ -129,7 +129,7 @@ export const ROWS = [
         title: "13 Reason Why",
         img: "/thumb/img7.png",
         videoSrc: "/videos/v1.mp4",
-        tags: ["Calm", "Intimate"],
+        tags: ["Calm", "Intimate", "Friendship"],
         match: "94% Match",
         age: "13+",
         duration: "3h 05m",
