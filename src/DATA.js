@@ -11,7 +11,7 @@
 //  WHO'S WATCHING — Profile Screen
 // ─────────────────────────────────────────────
 export const PROFILE = {
-  name: "Love",
+  name: "Rushali Belapurkar",
   image: "/thumb/main1.jpg",
 };
 
