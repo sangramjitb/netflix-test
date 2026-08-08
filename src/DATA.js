@@ -133,7 +133,7 @@ export const ROWS = [
         match: "94% Match",
         age: "13+",
         duration: "3h 05m",
-        desc: "Miles melt away through copper wires and digital screens. An emotional look into how voices across distances build an unshakeable bridge of warmth and security.",
+        desc: "They're the apple of my eye... even when they're the reason why I need coffee.",
       },
       {
         id: "t3",
