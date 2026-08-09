@@ -65,14 +65,14 @@ export const ROWS = [
       },
       {
         id: "p2",
-        title: "Favorite Moments",
+        title: "Sun, Sea & That Smile",
         img: "/thumb/img2.png",
         videoSrc: "/videos/v6.mp4",
         tags: ["Heartfelt", "Deep Connections"],
         match: "95% Match",
         age: "16+",
         duration: "27s",
-        desc: "A curated collection of absolute candid gold. From silent glances to endless laughter, explore the guide to why every second spent together is a blockbuster.",
+        desc: "A day by the sea with her favourite little travel companion, a lot of exploring, and enough spontaneous reactions to make the whole trip entertaining. Honestly, the beach was lucky to have the company. 😉.",
       },
       {
         id: "p3",
