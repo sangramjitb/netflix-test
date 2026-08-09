@@ -30,7 +30,7 @@ export default function AnniversaryApp() {
     audioRef.current = new Audio("/videos/netflix.mp3")
     audioRef.current.loop = true
 
-    const netflixSound = new Audio("/videos/netflix.mp3")
+    const netflixSound = new Audio("/videos/bg.mp3")
     netflixSound.play().catch(() => {})
 
     const timer = setTimeout(() => {
