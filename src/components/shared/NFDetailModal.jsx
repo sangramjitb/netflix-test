@@ -198,8 +198,8 @@ export default function NFDetailModal({ media, onClose }) {
                   borderTop: "1px solid rgba(255,255,255,0.07)",
                   paddingTop: 12,
                 }}>
-                  <div><span style={{ color: "#666" }}>Cast: </span><span style={{ color: "#ccc" }}>You, Me</span></div>
-                  <div><span style={{ color: "#666" }}>Genres: </span><span style={{ color: "#ccc" }}>Romantic Reality</span></div>
+                  <div><span style={{ color: "#666" }}>Cast: </span><span style={{ color: "#ccc" }}>You, Us </span></div>
+                  <div><span style={{ color: "#666" }}>Genres: </span><span style={{ color: "#ccc" }}>Magical Memories</span></div>
                   <div style={{ display: "flex", flexWrap: "wrap", gap: 6, marginTop: 4 }}>
                     {media.tags.map((tag, i) => (
                       <span key={i} style={{ background: "#2a2a2a", color: "#bbb", padding: "3px 8px", borderRadius: 3, fontSize: "clamp(9px, 1.5vw, 11px)" }}>
