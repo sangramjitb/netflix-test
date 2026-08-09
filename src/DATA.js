@@ -165,7 +165,7 @@ export const ROWS = [
         title: "Not in My Job Description",
         img: "/thumb/img5.png",
         videoSrc: "/videos/v3.mp4",
-        tags: ["Rom-Com / Workplace Comedy"],
+        tags: ["Rom-Com", "Workplace Comedy"],
         match: "99% Match",
         age: "All",
         duration: "Forever",
