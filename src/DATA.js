@@ -147,7 +147,7 @@ export const ROWS = [
       {
         id: "t3",
         title: "A Little Kashmiri Charm",
-        img: "/thumb/main.png",
+        img: "/thumb/img10.png",
         videoSrc: "/videos/v10.mp4",
         tags: ["Kashmiri", "Style", "Elegance", "Adorable"],
         match: "91% Match",
