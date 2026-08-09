@@ -106,7 +106,7 @@ export const ROWS = [
         match: "89% Match",
         age: "18+",
         duration: "2 Seasons",
-        desc: " Jeancheng picks up the guitar and suddenly the whole place has a soundtrack. One by one, everyone joins in until the entrance turns into an impromptu concert — the kind of office memory that definitely wasn't on the schedule.
+        desc: " Jeancheng picks up the guitar and suddenly the whole place has a soundtrack. One by one, everyone joins in until the entrance turns into an impromptu concert, the kind of office memory that definitely wasn't on the schedule.
 ",
       },
     ],
